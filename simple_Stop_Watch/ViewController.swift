@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  simple_Stop_Watch
 //
-//  Created by D7703_06 on 2018. 4. 9..
+//  Created by D7703_06 on 2018. 4. 10.
 //  Copyright © 2018년 IceArrow. All rights reserved.
 //
 
